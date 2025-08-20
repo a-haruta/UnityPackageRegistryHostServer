@@ -1,0 +1,18 @@
+{
+    "_updated": 99999,
+    "com.unity.render-pipelines.universal": {
+        "name": "com.unity.render-pipelines.universal",
+        "description": "偽URP",
+        "dist-tags": {
+            "latest": "17.0.4"
+        },
+        "maintainers": [],
+        "readmeFilename": "",
+        "time": {
+            "modified": "2025-08-07T07:14:26.329Z"
+        },
+        "versions": {
+            "17.0.4": "latest"
+        }
+    }
+}

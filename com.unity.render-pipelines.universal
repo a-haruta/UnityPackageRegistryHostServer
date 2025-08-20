@@ -1,0 +1,27 @@
+{
+  "name": "com.unity.render-pipelines.universal",
+  "versions": {
+    "17.0.4": {
+      "name": "com.unity.render-pipelines.universal",
+      "displayName": "偽URP",
+      "version": "17.0.4",
+      "description": "偽URP",
+      "dependencies": { },
+      "dist": {
+        "shasum": "0000020000000000000000000000000000000000",
+        "integrity": "sha512-wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww/wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww==",
+        "tarball": "com.unity.render-pipelines.universal.tar"
+      },
+      "contributors": []
+    }
+  },
+  "time": {},
+  "users": {},
+  "dist-tags": {
+    "latest": "1.0.0"
+  },
+  "_rev": "00000-0000000000000000",
+  "_id": "com.unity.render-pipelines.universal",
+  "readme": "",
+  "_attachments": {}
+}
